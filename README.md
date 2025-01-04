@@ -13,7 +13,7 @@ Worked with a comprehensive dataset of over 9,000 rows.
 
 
 ## Video Demo
-[Check portfolio](https://www.kirananalyst.xyz/)
+[Check portfolio](https://www.kirananalyst.xyz#order-report-section)
 
 ## Result
 ![Image1](https://github.com/user-attachments/assets/a20637d6-4e9f-4193-867c-9428e6dfd69b)
